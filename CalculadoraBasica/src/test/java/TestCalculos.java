@@ -4,9 +4,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import said.itszn.edu.mx.calculadorabasica.Calculos;
 
-public class PruebasCalculos {
+public class TestCalculos {
     
-    public PruebasCalculos() {
+    public TestCalculos() {
     }
     
     Calculos instancia=new Calculos();
